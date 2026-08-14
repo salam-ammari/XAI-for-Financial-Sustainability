@@ -368,6 +368,6 @@ When using the HESA open data, provide attribution to the Higher Education Stati
 
 ## License
 
-No software licence is included in this repository package because the authors should explicitly choose the intended reuse terms. Common options for academic research code include MIT and BSD-3-Clause.
+The source code and repository documentation are released under the **MIT License**. See [LICENSE](LICENSE).
 
-Do not reuse the HESA data under the code licence; HESA data remains subject to its own open-data licence and attribution requirements.
+This software licence does **not** relicense third-party datasets. HESA data remains subject to the applicable HESA open-data licence and attribution requirements.
