@@ -1,0 +1,12 @@
+# Compatible dependency ranges for the supplied notebook.
+# The original Colab notebook does not record exact package versions,
+# so these are reproducible compatibility constraints rather than an
+# exact environment lock.
+
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scikit-learn>=1.3,<2.0
+matplotlib>=3.7,<4.0
+joblib>=1.3,<2.0
+jupyterlab>=4.0,<5.0
+ipykernel>=6.25,<7.0
