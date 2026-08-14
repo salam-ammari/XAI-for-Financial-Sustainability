@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "XAI for Financial Sustainability Assessment and Prediction in Higher Education Institutions"
+type: software
+authors:
+  - family-names: "Allehyani"
+    given-names: "Budoor"
+  - family-names: "Al-E'mari"
+    given-names: "Salam"
+preferred-citation:
+  type: article
+  title: "XAI for Financial Sustainability Assessment and Prediction in Higher Education Institutions"
+  authors:
+    - family-names: "Allehyani"
+      given-names: "Budoor"
+    - family-names: "Al-E'mari"
+      given-names: "Salam"
+  year: 2026
